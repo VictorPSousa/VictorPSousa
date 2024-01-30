@@ -1,10 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Victor Sousa</h1>
 <h3 align="center">A dedicated fullstack web developer from São Paulo - Brazil.</h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=victorpsousa&label=Profile%20views&color=ff5300&style=flat" alt="victorpsousa" />
-</p>
-
 - 📚 I’m currently learning **Laravel, NodeJS and MongoDB**
 
 - 💬 You can ask me about **PHP and OOP**
